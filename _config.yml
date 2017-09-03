@@ -9,7 +9,7 @@ name: Test Master 69
 description: Noob from Finland
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://s2.narvii.com/image/yamc6k2amw4dsbdlanstl4sjnvh74eqr_hq.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: tgm104
   instagram:
   linkedin:
   pinterest:
