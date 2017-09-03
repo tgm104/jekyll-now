@@ -8,4 +8,4 @@ I can't even.. I'm just too old for this wipster stuff. I mean HTML and CSS were
 This girl is called Natalia something something, a meme from few years back. She's the prosecutor of Russian Government.
 ![_config.yml]({{ site.baseurl }}/images/natalia.jpg)
 
-My other general site of utter chaos and destruction is [TGM104](tgm104.com).
+My other general site of utter chaos and destruction is [TGM104](https://tgm104.com).
