@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: I don't know what I'm doing!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I can't even.. I'm just too old for this wipster stuff. I mean HTML and CSS were the kings in my time! No dynamic sites, no complex tracking and indexing, just plain static webpages. With the good ol' Mosaic.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+My other general site of utter chaos and destruction is [TGM104](tgm104.com).
