@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, hello there!
+
+I use this site to test my epic hacker skills! JK, just testing out different repos for the lols. I like this one.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My life consists of mowing the lawn, painting the house and the occasional part time I do in the city of Pori.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Teknikko - TheGodMode](https://tgm104.com)
