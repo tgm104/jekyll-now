@@ -9,7 +9,7 @@ name: TheGodMode
 description: "- 1 - 0 - 4 -"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: site.baseurl/images/IMG_1981.jpg
+avatar: https://raw.githubusercontent.com/tgm101/tgm104.github.io/master/images/IMG_1981.jpg
 #
 # Flags below are optional
 #
