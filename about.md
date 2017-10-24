@@ -10,7 +10,7 @@ I use this site to test my epic hacker skills! JK, just testing out different re
 
 ### More Information
 
-My life consists of mowing the lawn, painting the house and the occasional part time I do in the city of Pori.
+My life is trivial and boring.
 
 ### Contact me
 
